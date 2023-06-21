@@ -1,0 +1,45 @@
+*{
+    
+}
+
+.container{
+    width: 400px;
+    background-color: orange;
+    margin: 16px auto;
+    display: block;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+}
+
+p{
+    padding-left: 8px;
+}
+
+li{
+    color: black;
+}
+
+a{
+    
+    color: brown;
+    font-size: 22px;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: blue;
+    padding: 8px;
+    
+}
+
+.headings{
+    text-align: center;
+}
+
+.bottomlist{
+    padding-bottom: 8px;
+}
